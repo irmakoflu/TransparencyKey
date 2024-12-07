@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\bin\Debug\net8.0-windows\transparancykey.exe
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\bin\Debug\net8.0-windows\transparancykey.deps.json
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\bin\Debug\net8.0-windows\transparancykey.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\bin\Debug\net8.0-windows\transparancykey.dll
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\bin\Debug\net8.0-windows\transparancykey.pdb
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.sourcelink.json
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.dll
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\refint\transparancykey.dll
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.pdb
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\transparancykey.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\b\transparancykey\transparancykey\obj\Debug\net8.0-windows\ref\transparancykey.dll
